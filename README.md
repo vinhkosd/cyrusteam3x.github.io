@@ -1,14 +1,15 @@
-### Xin chào đã ghé thăm tới Cyrus Team 👋
+## Website của Cyrus Team 👋
 
 ## Chúng tôi là Gunny developer
 
+Các phiên bản chúng tôi đang triển khai
 - 🌱 Gunny 3.8
 - 🥅 Gunny 5.5
 - ⚡ Gunny 10.5
 
 ### Demo Gunny 3.8:
 
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
+[<img align="left" alt="Gunny" width="26px" src="https://cdn.discordapp.com/attachments/808497318466027530/894740148145762304/download.jpg" />][website]
 
 
 <br />
