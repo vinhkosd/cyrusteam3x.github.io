@@ -9,7 +9,7 @@ Các phiên bản chúng tôi đang triển khai
 
 ### Demo Gunny 3.8:
 
-[<img align="left" alt="Gunny" width="26px" src="https://cdn.discordapp.com/attachments/808497318466027530/894740148145762304/download.jpg" />][website]
+[<img align="left" alt="Gunny" width="26px" src="https://cdn.discordapp.com/attachments/808497318466027530/894740148145762304/download.jpg" /> Gunny 257][website]
 
 
 <br />
