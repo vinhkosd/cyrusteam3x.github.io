@@ -15,7 +15,7 @@ Các phiên bản chúng tôi đang triển khai
 
 ### Liên hệ với chúng tôi qua facebook:
 
-[<img align="left" alt="Facebook" width="26px" src="https://cdn.discordapp.com/attachments/808497318466027530/894740854735007764/Facebook-200x200.jpg" />][facebook] 
+[<img align="left" alt="Facebook" width="26px" src="https://www.facebook.com/images/fb_icon_325x325.png" />][facebook] 
 
 <br />
 
